@@ -1,6 +1,4 @@
-<script>
 // Non GAS code
 (function () {
-	alert('sdflsdjflsjdflsd');
+	//alert('sdflsdjflsjdflsd');
 })();
-</script>
