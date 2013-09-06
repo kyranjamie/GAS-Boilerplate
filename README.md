@@ -23,6 +23,12 @@ $ gas init
 3. Create refresh-token
 4. Create project file
 
+This set up will create two files:
+```
+- gas-config.json
+- gas-project.json
+```
+(These are in .gitignore as they're specific to each user).
 
 ## Sublime Text Build Script
 
