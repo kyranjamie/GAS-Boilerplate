@@ -1,0 +1,31 @@
+{
+  "name": "google-apps-script",
+  "version": "0.0.0",
+  "description": "GAS-Boilerplate ===============",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyranjamie/GAS-Boilerplate.git"
+  },
+  "keywords": [
+    "google apps script"
+  ],
+  "author": "Appsbroker",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kyranjamie/GAS-Boilerplate/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-sass": "~0.4.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-text-replace": "~0.3.7"
+  }
+}
