@@ -50,3 +50,4 @@ Tools > Build System > New Build System
 - Quote from Docs:
 *"(Very old browsers, including Internet Explorer 8 and below, are usually incompatible with Html Service.)"*
 https://developers.google.com/apps-script/
+- Difficulties loading separate views.
