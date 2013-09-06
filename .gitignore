@@ -2,5 +2,5 @@ gas-config.json
 gas-project.json
 .sublime-project
 .sublime-workspace
-
+.sass-cache
 node_modules

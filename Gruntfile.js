@@ -34,7 +34,7 @@ module.exports = function ( grunt ) {
           style: 'compressed'
         },
         files: {
-          '/styles.html': 'css/global.scss'
+          'styles.html': 'css/global.scss'
         }
       }
     },
