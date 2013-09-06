@@ -46,8 +46,9 @@ Tools > Build System > New Build System
 - iframe nested within table > messy code
 - "Caja Sanitization"
 	Used to detect security violations
-	i.e. external services with auth tokens (requring cookies) 				won't work
+	i.e. external services with auth tokens (requring cookies) won't work
 - Quote from Docs:
 *"(Very old browsers, including Internet Explorer 8 and below, are usually incompatible with Html Service.)"*
 https://developers.google.com/apps-script/
 - Difficulties loading separate views.
+- Randomly strips out onclick attributes.
