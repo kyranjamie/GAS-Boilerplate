@@ -10,12 +10,13 @@ https://github.com/soundTricker/gas-manager/
 
 ## Instructions
 Create project and enable **Drive SDK** and **Drive API** in Google API Console
+Inside chosen dir, run 
 ```shell
-npm install gas-manager
+$ npm install gas-manager
 ```
-Run:
+Then:
 ```shell
-gas init
+$ gas init
 ```
 1. Enter clientID (omitting .apps.googleusercontent.com)
 2. Enter Client secret
