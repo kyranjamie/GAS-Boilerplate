@@ -1,7 +1,7 @@
 GAS-Boilerplate
 ===============
 
-Template structure for web applications utilising Google Apps Script HtmlService
+Template structure for web user interface, created using Google AppsScript HtmlService
 
 ## Documentation
 https://developers.google.com/apps-script/import-export
@@ -51,4 +51,4 @@ Tools > Build System > New Build System
 *"(Very old browsers, including Internet Explorer 8 and below, are usually incompatible with Html Service.)"*
 https://developers.google.com/apps-script/
 - Difficulties loading separate views.
-- Randomly strips out onclick attributes.
+- Strips out onclick attributes.
